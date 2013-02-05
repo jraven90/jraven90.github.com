@@ -1,0 +1,11 @@
+@media screen and max-width=640{
+	p {
+		display:none;
+	}	
+}
+
+@media screen and max-height=960{
+	p {
+		display:none;
+	}	
+}
