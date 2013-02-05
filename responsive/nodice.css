@@ -1,11 +1,4 @@
-@media screen and max-width=639{
-	p {
-		display:none;
-	}	
+p {
+	display:none;
 }
 
-@media screen and max-height=959{
-	p {
-		display:none;
-	}	
-}
